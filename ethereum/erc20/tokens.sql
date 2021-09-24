@@ -132,6 +132,7 @@ COPY erc20.tokens (contract_address, symbol, decimals) FROM stdin;
 \\x7db5454f3500f28171d1f9c7a38527c9cf94e6b2	AGS	4
 \\xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a	AGS	8
 \\x8d2fab1ff34f1c545673a816f1438b02d0a2e32d	AGT	8
+\\x0b006e475620af076915257c6a9e40635abdbbad	AGVE	18
 \\x8b79656fc38a04044e495e22fad747126ca305c4	AGVC	18
 \\xd6d3608f2d770d0a8d0da62d7afe21ea1da86d9c	AHF	18
 \\xb125cceb9c6e349217d09b069a8d88dbeacf06e5	AHOUSE	9
